@@ -1,0 +1,38 @@
+.inp{   
+    margin-top: 100px;
+    border-radius: 20px;
+    position: relative;
+    width: 400px;
+    height: auto;
+    background: #d3d1d1;
+}
+input{
+    border: none;
+    border-radius: 10px;
+    padding: 8px;
+    width: 82%;
+}
+.inp button{
+    font-weight: 900;
+    font-size: 20px !important;
+}
+.list{
+    max-width: 400px !important;
+    height: auto;
+    background: #d3d1d1;
+    padding: 20px 10px;
+    border-radius: 20px;
+}
+
+input[type='checkbox']{
+    transform: scale(3);
+    margin:0 15px;
+}
+.eidt-items input{
+    margin: 1rem auto 1rem -8rem;
+}
+.lead{
+    margin-left: -8rem !important;
+    font-size: 2rem !important; 
+    font-weight: 500 !important;
+}
